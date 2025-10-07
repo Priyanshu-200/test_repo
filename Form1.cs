@@ -107,8 +107,9 @@ namespace TextBoxFinder
                 if (found)
                 {
                     string name1 = "Priyanshu";
-                    string greet = "Hello World"
-                    
+                    string greet = "Hello World";
+                    string name2 = "Piyush";
+                    string passion = "Athletics";
                     string message = $"✅ Total TextBoxes Found: {textboxCount}\n\n" + string.Join("\n\n", textboxDetails);
                     MessageBox.Show(message, "TextBox Details", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }

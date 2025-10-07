@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextBoxFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f78a739ac218f0561d5b0bf92e8dc6d79a48d61b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab74f015781beed30dc6d67d50608e05c266c08")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextBoxFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextBoxFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PriyanshuSo\\test_repo\\TextBoxFinder.csproj": {}
+    "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\TextBoxFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PriyanshuSo\\test_repo\\TextBoxFinder.csproj": {
+    "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\TextBoxFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PriyanshuSo\\test_repo\\TextBoxFinder.csproj",
+        "projectUniqueName": "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\TextBoxFinder.csproj",
         "projectName": "TextBoxFinder",
-        "projectPath": "C:\\Users\\PriyanshuSo\\test_repo\\TextBoxFinder.csproj",
+        "projectPath": "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\TextBoxFinder.csproj",
         "packagesPath": "C:\\Users\\PriyanshuSo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PriyanshuSo\\test_repo\\obj\\",
+        "outputPath": "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
