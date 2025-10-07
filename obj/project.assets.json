@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\TextBoxFinder.csproj",
+      "projectUniqueName": "C:\\Users\\PriyanshuSo\\test_repo\\TextBoxFinder.csproj",
       "projectName": "TextBoxFinder",
-      "projectPath": "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\TextBoxFinder.csproj",
+      "projectPath": "C:\\Users\\PriyanshuSo\\test_repo\\TextBoxFinder.csproj",
       "packagesPath": "C:\\Users\\PriyanshuSo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PriyanshuSo\\source\\repos\\TextBoxFinder\\obj\\",
+      "outputPath": "C:\\Users\\PriyanshuSo\\test_repo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
